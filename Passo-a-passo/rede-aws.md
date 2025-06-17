@@ -45,42 +45,42 @@ No grupo de segurança que a instância privada faz parte, crie uma regra para l
 ![][image11]  
 
 
-[image1]: ../imagens/image1.png
+[image1]: ../imagens/img-aws/image1.png
 
-[image2]: ../imagens/image2.png
+[image2]: ../imagens/img-aws/image2.png
 
-[image3]: ../imagens/image3.png
+[image3]: ../imagens/img-aws/image3.png
 
-[image4]: ../imagens/image4.png
+[image4]: ../imagens/img-aws/image4.png
 
-[image5]: ../imagens/image5.png
+[image5]: ../imagens/img-aws/image5.png
 
-[image6]: ../imagens/image6.png
+[image6]: ../imagens/img-aws/image6.png
 
-[image7]: ../imagens/image7.png
+[image7]: ../imagens/img-aws/image7.png
 
-[image8]: ../imagens/image8.png
+[image8]: ../imagens/img-aws/image8.png
 
-[image9]: ../imagens/image9.png
+[image9]: ../imagens/img-aws/image9.png
 
-[image10]: ../imagens/image10.png
+[image10]: ../imagens/img-aws/image10.png
 
-[image11]: ../imagens/image11.png
+[image11]: ../imagens/img-aws/image11.png
 
-[image12]: ../imagens/image12.png
+[image12]: ../imagens/img-aws/image12.png
 
-[image13]: ../imagens/image13.png
+[image13]: ../imagens/img-aws/image13.png
 
-[image14]: ../imagens/image14.png
+[image14]: ../imagens/img-aws/image14.png
 
-[image15]: ../imagens/image15.png
+[image15]: ../imagens/img-aws/image15.png
 
-[image16]: ../imagens/image16.png
+[image16]: ../imagens/img-aws/image16.png
 
-[image17]: ../imagens/image17.png
+[image17]: ../imagens/img-aws/image17.png
 
-[image18]: ../imagens/image18.png
+[image18]: ../imagens/img-aws/image18.png
 
-[image19]: ../imagens/image19.png
+[image19]: ../imagens/img-aws/image19.png
 
-[image20]: ../imagens/image20.png
+[image20]: ../imagens/img-aws/image20.png
